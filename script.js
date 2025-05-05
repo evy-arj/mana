@@ -1,0 +1,1 @@
+alert('MAVI DISSE QUE NÃO GOSTA DE MIM 💔💔💔💔')
